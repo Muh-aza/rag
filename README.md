@@ -1,8 +1,4 @@
-# Training-Free Kinase–Substrate Phosphorylation Prediction with RAG-LLMs
-
-Code and data for our IEEE BIBM 2026 paper.
-
-**Authors:** Muhammad Azam, ABC, Zhongming Zhao\*, UTHealth Houston (\*corresponding author)
+# Retrieval-Augmented Large Language Models Enable Training-Free Kinase–Substrate Phosphorylation Prediction from Protein Databases and Biomedical Literature
 
 ![Framework](figures/fig1_architecture.png)
 
