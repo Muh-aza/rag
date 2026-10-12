@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Training-Free Kinase-Substrate Phosphorylation Prediction with Retrieval-Augmented LLMs"
+repository-code: "https://github.com/Muh-aza/rag"
+license: MIT
+authors:
+  - family-names: Azam
+    given-names: Muhammad
+    email: Muhammad.Azam@uth.tmc.edu
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Zhao
+    given-names: Zhongming
+    email: Zhongming.Zhao@uth.tmc.edu
+    affiliation: "The University of Texas Health Science Center at Houston"
+preferred-citation:
+  type: conference-paper
+  title: "Retrieval-Augmented Large Language Models Enable Training-Free Kinase-Substrate Phosphorylation Prediction from Protein Databases and Biomedical Literature"
+  authors:
+    - family-names: Azam
+      given-names: Muhammad
+    - family-names: Zhao
+      given-names: Zhongming
+  collection-title: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  year: 2026
